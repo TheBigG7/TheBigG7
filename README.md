@@ -1,7 +1,6 @@
 # 👨‍💻 Jorge Israel Barreto Matute
 
 **Tecnólogo en Desarrollo de Software | Full-Stack Developer & IT Support**
-📍 San Bartolomé, Sígsig, Azuay, Ecuador
 
 Profesional enfocado en el ciclo de vida de aplicaciones, desarrollo de APIs REST y resolución de problemas de infraestructura. Combino el desarrollo Full-Stack con experiencia práctica en recuperación de desastres, administración Linux y despliegue de contenedores.
 
