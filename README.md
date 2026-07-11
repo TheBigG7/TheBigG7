@@ -22,7 +22,7 @@ Plataforma SPA para la gestión de servicios turísticos.
 * **Stack:** Java Spring Boot, Angular, GCP, Docker.
 * **Aporte:** Desarrollo de API REST con +190 endpoints e integración de IA (OpenAI) y pasarela de pagos (PayPal). Despliegue en producción mediante contenedores en servidores Ubuntu (GCP).
 
-### 🔬 [Sistema de Gestión de Inventario para Laboratorios](Enlace_a repo)
+### 🔬 [Sistema de Gestión de Inventario para Laboratorios](Enlace a repo)
 Sistema centralizado para auditar hardware, mantenimientos preventivos y control de repuestos.
 * **Stack:** Angular 18, Spring Boot 3.3.2, MySQL, SendGrid API.
 * **Aporte:** Implementación de control de acceso por roles (TIC, Encargados), reportes operativos y notificaciones automatizadas por correo.
