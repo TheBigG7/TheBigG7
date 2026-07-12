@@ -8,9 +8,9 @@ Profesional enfocado en el ciclo de vida de aplicaciones, desarrollo de APIs RES
 
 ## 🚀 Tecnologías y Herramientas
 
-* **Backend:** Java (Spring Boot, Spring Security),Node.js , Python
-* **Frontend:** Angular, Flutter
-* **Infraestructura & Cloud:** Docker, GCP (IaaS), Linux (Shell Scripting)
+* **Backend:** Java (Spring Boot, Spring Security), Node.js, Python
+* **Frontend:** Angular, Flutter, Java
+* **Infraestructura & Cloud:** Docker, GCP, AWS, Linux Server
 * **Base de Datos & Datos:** SQL, Dagster
 
 ---
