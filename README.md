@@ -17,22 +17,22 @@ Profesional enfocado en el ciclo de vida de aplicaciones, desarrollo de APIs RES
 
 ## 🏆 Proyectos Destacados
 
-### 🏨 [Turismo Tec](Enlace_a_repo)
+### 🏨 [Turismo Tec](https://github.com/TheBigG7/turismoTec-frontend.git)
 Plataforma SPA para la gestión de servicios turísticos.
 * **Stack:** Java Spring Boot, Angular, GCP, Docker.
 * **Aporte:** Desarrollo de API REST con +190 endpoints e integración de IA (OpenAI) y pasarela de pagos (PayPal). Despliegue en producción mediante contenedores en servidores Ubuntu (GCP).
 
-### 🔬 [Sistema de Gestión de Inventario para Laboratorios](Enlace a repo)
+### 🔬 [Sistema de Gestión de Inventario para Laboratorios](https://github.com/TheBigG7/Inventario-Mantenimiento-Laboratorios.git)
 Sistema centralizado para auditar hardware, mantenimientos preventivos y control de repuestos.
 * **Stack:** Angular 18, Spring Boot 3.3.2, MySQL, SendGrid API.
 * **Aporte:** Implementación de control de acceso por roles (TIC, Encargados), reportes operativos y notificaciones automatizadas por correo.
 
-### 🔒 [API Facturación Segura & Microservicio Criptografía](Enlace_a_repo)
+### 🔒 [API Facturación Segura & Microservicio Criptografía](https://github.com/TheBigG7/API-FacturacionSegura-spring-secure-crm-docker.git)
 Sistemas enfocados en la seguridad de la información y transacciones.
 * **Stack:** Spring Boot 3.5.3, Docker, JWT, OpenAPI (Swagger).
 * **Aporte:** Arquitectura stateless con autenticación JWT, encriptación AES-128/RSA-2048, filtros IP (Whitelist) y orquestación con Docker Compose.
 
-### 📊 [Pipeline de Datos COVID-19](Enlace_a_repo)
+### 📊 [Pipeline de Datos COVID-19](https://github.com/TheBigG7/dagster-covid-pipeline.git)
 Orquestación de datos epidemiológicos para análisis y reportes.
 * **Stack:** Python, Dagster.
 * **Aporte:** Automatización de ingesta, cálculo de métricas (incidencia, factor de crecimiento), validación de assets y generación de reportes en Excel.
@@ -51,4 +51,4 @@ Orquestación de datos epidemiológicos para análisis y reportes.
 
 * 📧 Email: [jorge.barreto.97@gmail.com](mailto:jorge.barreto.97@gmail.com)
 * 🌐 Web: [thebigg7.github.io](https://thebigg7.github.io)
-* 💼 LinkedIn: (https://www.linkedin.com/in/jorge-israel-barreto-matute-a226a2355)
+* 💼 LinkedIn: [linkeding](https://www.linkedin.com/in/jorge-israel-barreto-matute-a226a2355)
