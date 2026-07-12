@@ -51,4 +51,4 @@ Orquestación de datos epidemiológicos para análisis y reportes.
 
 * 📧 Email: [jorge.barreto.97@gmail.com](mailto:jorge.barreto.97@gmail.com)
 * 🌐 Web: [thebigg7.github.io](https://thebigg7.github.io)
-* 💼 LinkedIn: [linkedin-Jorge-Barreto](https://www.linkedin.com/in/jorge-israel-barreto-matute-a226a2355)
+* 💼 LinkedIn: [JORGE ISRAEL BARRETO MATUTE](https://www.linkedin.com/in/jorge-israel-barreto-matute-a226a2355)
